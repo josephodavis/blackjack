@@ -1,4 +1,3 @@
-REMEMBER TO TAKE AWAY API KEY
 Using Roboflow
 
 Colab Notebook:
